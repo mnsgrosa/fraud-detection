@@ -4,3 +4,5 @@ Projeto feito com base de dados do kaggle para detecção de fraudes. Para rodar
 ```console
 pip install -r requirements.txt
 ```
+
+Nesse projeto explorei como trabalhar com dados desbalanceados usando tecnicas de geração de dados sinteticos e oversampling
